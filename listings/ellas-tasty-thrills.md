@@ -1,13 +1,11 @@
 # Ella's Tasty Thrills
 
-**Category:** Food Vendor & Catering
-**Type:** Company
+**Category:** | Food Vendor & Catering
+**Type:** | Company
 
-Food vendor, chef and caterer offering classic, exotic and delectable meals for personal enjoyment, family occasions and events catering.
+| Food vendor, chef and caterer offering classic, exotic and delectable meals for personal enjoyment, family occasions and events catering.
 
-**Live page:** https://tsboi.ai/ellas-tasty-thrills
-**Source:** https://www.instagram.com/ellas_tasty_thrills_
-
+**Live page:** | https://tsboi.ai/ellas-tasty-thrills
 
 ---
 
