@@ -3,7 +3,7 @@
 **Category:** Admin Post
 **Type:** blog
 
-A profile of Governor Dauda Lawal's achievements across security, education, healthcare, infrastructure, agriculture and fiscal reform in Zamfara State, Nigeria, since May 2023.
+A profile highlighting Governor Dauda Lawal's work across security, education, healthcare, infrastructure, agriculture and fiscal reform in Zamfara State since May 2023.
 
 **Live page:** https://tsboi.ai
 
