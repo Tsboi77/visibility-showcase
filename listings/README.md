@@ -16,5 +16,6 @@ All listings currently made findable through the [tsboi.ai Visibility Engine](ht
 | [The Visibility Problem Nobody Was Solving for African Businesses](./the-visibility-problem-nobody-was-solving-for-african-businesses.md) | Technology | News | [Live page](https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses) |
 | [Governor Dauda Lawal's Rescue Mission: Transforming Zamfara State Through Security, Education and Infrastructure](./governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security.md) | Admin Post | blog | [Live page](https://tsboi.ai) |
 | [Victoria Nneka Chidoka — Cancer Research, Education & Support](./victoria-nneka-chidoka-cancer-research-education-support.md) | Health - Cancer Information & Support | corporate | [Live page](https://tsboi.ai/hub/victoria-nneka-chidoka) |
+| [Discover Zamfara — Culture, Tourism, Businesses & Community Stories](./discover-zamfara-culture-tourism-businesses-community-stories.md) | Regional & Community | corporate | [Live page](https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories) |
 
 *New records are added automatically as listings go live.*
