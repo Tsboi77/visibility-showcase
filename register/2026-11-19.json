@@ -23,1185 +23,1524 @@
       "engine": "indexnow",
       "url": "https://tsboi.ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x20fa0ac2b4959d6686760d7059d835e0b01e185cc17fad571c4eee0df7e7ad67",
+      "attestation_tx": "0xf7866f0e18e2ea908cc31cce16f0355b7d06bbe532920c35deede4b29b32bb1f"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/llms.txt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7454344fb0839547e16909cfaf9fc93f36f14a6e3353ea6f66f17b1f79d53019",
+      "attestation_tx": "0xc5f9ec81318ae6fb4ea5afd5db9989e992a74b99c566c241568da967b947b756"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x30b426fba00d237defcc7e3383a574b7ffd9e9b76caf04c21300e7e0970fdc99",
+      "attestation_tx": "0x42193b08cc0e9d092786ebf19bd446ebda86a1fafb816209ac1fff8a46f3daff"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/blog",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x564f2a50ebfb606c1bfd55aa7219e6a04e0e2e6586115a1bea217e1d32fbb30f",
+      "attestation_tx": "0xf182c2922c44ae6f142af1a07a8592239f0e2c2874dba0d7686b0ad7703787b1"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/indexing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xef8f04217c9aa0d68064c45afc77df956206343673a236686c327d027f861e00",
+      "attestation_tx": "0xf0b6d0b14a33cc07e3c8b2d3218d6209e31c3852013511960e7ff29415a8c592"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/api-platform",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7753f320b862446fe9c637985a247c8df2d023f930d80afe267876236e4a02b7",
+      "attestation_tx": "0x1ecc081331f6141c166f9fdbc06d0f4ea2b50ffe8923702279ee003e9c0f6748"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9f2fb12415394ac867bc34728c16709aaeaf9025019ce1e37b79dab0dfb17e78",
+      "attestation_tx": "0x0b1afb4a6740f66ea66051da6cb7fae01845e7005e171007e2dfae7b0e40b37d"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/frsc",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0a645de8ca85b76978d616bcf5e2800e78664efa463c1bc14fe82115199b0c53",
+      "attestation_tx": "0x5d46f9aa80b9868f43b06809cd6f2971288501bc0e53af514a8a7ea79bb7b19b"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/kachollom-daju",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x3a583a255200e347d5cca30fcef2aa98245e5ab292a5ea98a2ae8c3e1831c616",
+      "attestation_tx": "0xa40bcb5e95718aeb9bdf97dfa78bbb9846bcbf22a5cbd7e8f7b90da6afc40649"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/signature-private-collection",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0b7f5c66589e46378c6c39b52174f820b66d176074d5d49ee22796488b4719aa",
+      "attestation_tx": "0x56c89b1b3b880ddfd5a1e3d7277a1314b052369fa6319a7f52175fe79c9653cf"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/signature-private-collection-fragrances-that-tell-your-story",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x858126d0a63805fdefe77db2b1f72e1e7c905810124ffd8320aa4282dc08d624",
+      "attestation_tx": "0xb20cce97e481a6e4e0e791894d2619b4a026f97f83ed3475dbc30b16356ee17a"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/beccas-castle-luxury-skincare-abuja",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7fc7df9b7a64d006c4632b5ee22f25076b31dad814405025c782a1c23babd7d0",
+      "attestation_tx": "0x37913969e63ddbdc1dc6076fd56556ab40dfad91ae48b16425b3dbad87e01d07"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/aishat-saliu-strategic-hr-executive-media-leader-and-ceo-of-vivanta-consulting-ltd",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf23e773969dfaa7a6ec7e74f4e486c9cddf329d81d664852d50b6653615ba223",
+      "attestation_tx": "0xeecaf3189a6e0a2a26d934353681d50ce292004bd82ebaec1280b1ef5411637e"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/khalis-leather-handcrafted-luxury-leather-goods",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x6676a71213c9f819d96c81288f0ae82702870a6a388e1678c2a58d7f9fa008ee",
+      "attestation_tx": "0x9e31cf744d8997c39d3b8b61d3098c1fbec889f9ff04d7bdc5acc46950a8efa3"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x59bd5a8ac229234f08d169ff636cf717e6203af93b4e47c9978f0c881b9469b5",
+      "attestation_tx": "0x372ae4a600984c8ae456a1d88d1ceb384db731af29bb2eaf9a3789c2037f7b14"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa560f069116e82c49bde9ce94519f99ce649e36c94c259b403e654c6fa7c3843",
+      "attestation_tx": "0x4dac203b9b679b7750afe839683deda0c9c18eccddb724aa3a12f389354087e6"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/integrations",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x895c7b3d75bfa6027c2a73ffe42432735013cfd002ee63350a7d388700ed0010",
+      "attestation_tx": "0x547ad39408b1aa487db3079c126bfe758a27353a0ab42a745a89fea78b1d68c0"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/osita-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf95ae35b3eba0ae6b6ab3ee8d3d9ccbb29727070c23b05959938f8c52b39fc58",
+      "attestation_tx": "0x5a94301ebe3667693ff6a53be5ddb011988e5e56458947fa136baa315903c0aa"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/visibility-problem",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe0ee14031acc48382318de1f3d3c3d59964a0c3ef2845f31d546ea69badb949e",
+      "attestation_tx": "0xd3d6e9b4adb2b4dbb776d22d4a692de06b0d529fec9702681fb9f8f8755956b2"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/techstartup-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xdcd137d83fb6345b8294e9ad3affe527309ceec93a181cd4fcdc5325ad1c2ea4",
+      "attestation_tx": "0x2e23c7ef4fb01354e802b90fc0604a0351969863e9f4b063713895758ad8a748"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/pandemic-readiness",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x2526a829bbe9afb26fee3403673248dcbb29b58f66d51e55b8c1a6cb50e7905e",
+      "attestation_tx": "0x2a2c0f1ed3e05d754291a77d299e61d6cb17118fca638f8583a3d4bca55c6b6b"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/financeplus",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf0841e643205e9381c1a3aef98fc07b612ee51b0708b954adf278d138ea7811a",
+      "attestation_tx": "0xbd61ab7327c1f77532f9d83a963d7127e10d4c2a6b09049b8b48ae82d7b9a0d4"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/edtech-keynote-2025",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x41a39b58e627abc8fbdb1f8420905183394f47f799bed1c4c9fba7cfff0aa077",
+      "attestation_tx": "0xf8e24da1693652ffdc79cf9c50dd86f8ada4da3857a26c05e672dacc94e7e1d1"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/sportsnow-podcast-247",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x55e09f13df64f5ec5afd7f9ca72cf963816fbe42af911954240b804b80094c32",
+      "attestation_tx": "0xf88b47c3c512580158f935cb64216fa3eb2ba39b7257078da4de850311254534"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/barr-donald-chidi-amamgbo",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa0f99e74f17d9ffe68a815f66020b9acd5dd16ee0f696e55334e4de1ad8a2bf4",
+      "attestation_tx": "0xc08680ae8366e03562349bc0aa192732f3e09bc4988c9249e9c53031a0c92d55"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/solarmax-pro",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xd7c351c6c60599af2a6dfe8caa55ca572dd5016e330df3c28a76c900655d1a4e",
+      "attestation_tx": "0x7924a1f6d5d7714b8ac48526882785fc36e2a978c110fc8410c285fd9be357de"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/elena-volkov",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x5cb4a0678ae1d45c95b7fff38438682c749b94c1e4a412b82240aeb3366b5cba",
+      "attestation_tx": "0x97b480dc8a1cad5ea9f4b4ad87157d1a48d76c7d10ed71c3340f5308f3ee720f"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/discovery-is-half-the-job-sms-email-marketing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb97e43d0b6b03698ef0bdc8b47a3da072e8e9d5765930154ed5ac95522e19dc6",
+      "attestation_tx": "0xdd9d60b1cb7da9cbb3e234d2d4b2e93c521474c9dcf96ad4352cf130712a1662"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/eu-classified-chatgpt-as-search-engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x401839bde00568c33ba7756c6f9925ccb604105d094750c3c378ced6ff58ab76",
+      "attestation_tx": "0x435b5ab44e2ddfcc1b56d9a589c97925e08468a1aefc907c6ec0b4d4ea836153"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/the-retrieval-wall-why-most-internet-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x96805a45e763c08d445ac145a9440f3ff1bf14150fa93fd03d16365dbfe146ed",
+      "attestation_tx": "0x7ed4d33a842429e263e42322e8bd0adffbaab57889317d4911b778c119d00b80"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/three-source-rule-ai-corroboration-citation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0b7e59615e77cd1531258137801c084515c5f64c859e13366de1cb93bc7c2fca",
+      "attestation_tx": "0xfe57a93bc291c32a49ef311b3e20c9e0a6da511b3fd58b0facd6377739c9373e"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/the-trust-gap-why-ai-finds-content-wont-cite",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa75ce02886a2b4b8661b76816c0b14be861a5ddc248e9345e47915a4a5b25abf",
+      "attestation_tx": "0x578fb29ac42aa806cc34ad54bd664190e3a44965bb982001cbc3923baffb14ec"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/the-multi-model-problem-ai-ranking-differences",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xc41005ba0e3bdc0824ffe73f216d67058744f8c2f818cbb8039c6e698d028059",
+      "attestation_tx": "0x7a45492102c95f32a94eb916a9d75dd095769feb07f812b5ad7e74efa367f2be"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/the-knowledge-cutoff-why-newest-content-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x788caad6441ddfb2a95e474d35c41f87f1736fbadccfff91a31a94da101f9479",
+      "attestation_tx": "0x9c6e8cbf537d6c5e2754a93209853be01d3961e66f23fa8251392ef44762a715"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/why-every-company-needs-an-ai-ready-corporate-profile",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbd0bd576ecfcdf6773c039bfbc1f16ad9419fe590aee844885cc9949e63facaa",
+      "attestation_tx": "0x81ad6d19ac7df8c5f33fc07b8094f0e7b82e9a8d236213b4ee2dcc21b1c87470"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/why-ai-cites-some-brands-and-ignores-others",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x5a6bf29f4668bcc3581dbce1710ef25118f3839c8698a61329fd4873aed3a68c",
+      "attestation_tx": "0x2fc590021b83827a290761f7fb28700f0e40c12ab6cca96c2b6846702c974fec"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/why-your-professional-profile-is-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x960861ce591beaf7e4ea1da2eafd1e62b2cdd2a1851fe6e6cc08a8d8b732be84",
+      "attestation_tx": "0x3e0d716f829b759f75a1032a086e9a7ab7f60d27df4bd4117e865bde4384156b"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/why-business-doesnt-appear-perplexity-chatgpt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9a8378b5f8cb0477a2cad6db9240f770c58b3e4af6a6a7078b3cd6f89a5e3f9e",
+      "attestation_tx": "0x115b7f6a5625f02bca8a6665984c7190f5582acfaa913cb3e894659235924a3c"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/how-ai-search-tools-find-answers",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x340565ebea90a95ac45066e56e32df92c64651e706d655fb7483d517205246cc",
+      "attestation_tx": "0xb359a46a3bc737dda8e6eba4f02538309441babb4a889e56675a3baae9099ca7"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/what-is-geo-generative-engine-optimisation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7218b5c1863598a4496d1fabdd819ab71f174d560e47e5a6937d3bfae05302d9",
+      "attestation_tx": "0x7dfb67bb385b68deca5cba40435e99efac81a12d5c0f48a6def2b832a37b84aa"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/gov-dauda-lawal-rescue-mission-zamfara",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x384207f2ad20ec8db58120a286f317f16b5adeaa31543a38ca8a291ac15b53a0",
+      "attestation_tx": "0x834c762ce6ebacc28dba45adcc249dc2e09da30683a94cfdf295a84afd139d89"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security-education-and-infrastructure",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x01c469e0305a86c588a5be2cb05ddde0331b722c26d4db43cf32629408264913",
+      "attestation_tx": "0xac514431f3473c9b83c969a6006ac320f09714e483b58f48bf9254ec809eb499"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/every-life-on-nigerias-roads-matters-frsc-tsboiai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa577c9556aea85eda4745b8eefe765f7bc57d77e518792b245ca3abcb6d43b80",
+      "attestation_tx": "0x5f8c90665a90cf7ea421c2d4d29c4211032e3bb6a5411db48d15ba14ae8efa73"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/kachollom-shangti-daju-permanent-secretary-federal-ministry-of-health-social-welfare",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x932e97394a20f742c6a89dfb41e9baeafa4de610ad909777ab275dcce4ef5090",
+      "attestation_tx": "0x549b28c0bcb795e55eb2fc8f3017774c62cfa03ae455d43f70ba0eb197b52825"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/osita-chidoka-public-servant-writer-institution-builder",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x51e2eb13bafd4ac567cc77abf84bd39c7431622d9529da63454de47d885be132",
+      "attestation_tx": "0xc98c9855cd7781d9ce2139e939a0138139dd11616882bb1255cd7d72d77b55d6"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xeb75af5a3d4d96b4854dcf236c2741be21981bf91d3ba0c677b5c00bf37a2146",
+      "attestation_tx": "0xf17f08b0bdc3a9fff55548e120754c8f77b7222db306cfd29002972ab3773ca9"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7642da89cc8bf29bce8815099454b0a37a410ca31605c78c80d6fca2d9f95533",
+      "attestation_tx": "0xdb51154fe12b1101d68fc9f1f00af1aacf481c6392889a2677f5bc5b1f998f69"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe7229f6a78df83581bb3716fc4503c7a0880b88f4540fff509cdc163330c4bc3",
+      "attestation_tx": "0x90190f2c8f49c5053bda1410ee0d8be0ed6b66874443f2bd7c35cd0cae0fbe9f"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka-cancer-research-education-support",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x53b790a7520592a95458ba9c8a54ab19c0268d60ee2db6df0a3819e3fcfa414d",
+      "attestation_tx": "0x6bfb0145150e3e63ff3eb23eb9869b17b6e7f90dd64fad73701d5f2a5f6c24f1"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x8777244a55f799f5b462e7c9d7de9fcffcbf50acc6ba57d363e019f02f31fe43",
+      "attestation_tx": "0x930505f564792b140956d709ac718ac6715d89c3dfbc91b6dcc8b6e9e90cf937"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/learn",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x196acff615979b7321cbe48b82065a4a5052e40527684e80b78972663878b613",
+      "attestation_tx": "0x6828270b67a4ee60af3d28735643a2e1b880210fea7cd2d06621320364ba6c57"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/solutions",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0xbd17b09fa381a6f3708bfa1a27c2f36e4592b5246b4e33cc0771849fd521f49c",
+      "attestation_tx": "0xb544645bba2bb1373678e3140433df5f3faabc2d59386d681158ef5eff879249"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/centres",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x7135225bd44dc1d37b72f98fb2f1b3de723b5059de04c22ac0b52adec2cc94ef",
+      "attestation_tx": "0x7c5f326df47e65c39c1848079ae30098e857acdf51b17ddce166ccac86a2c140"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/caregivers",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x35c05f17f4b928a7b28e1301f20c7eb5e57f5deffa58706dd895d60295a01bb2",
+      "attestation_tx": "0xd658c90a0ac37c360aada4064d9945460bcbbf59564ff4b7da204ee8aeb838ae"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/memorial",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0xedc8cbc2a5416554a82a3dde6cc44a882a8df923ec2299427844cffd2da07545",
+      "attestation_tx": "0xa41b173eb7d95fa50facf873c463bf650041323cd2d97428e8772247420ffc56"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/about",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x04507037c2b243c51a1fb6b58852a308d8b5ea94b595cb6e2d5872d3fc6c186e",
+      "attestation_tx": "0x36bf43bf7e2b42374ed7294f85f7e3e5179080cf2711db6600ba1c8da31e080a"
     },
     {
       "ts": "2026-11-19T05:01:38.034Z",
       "engine": "indexnow",
       "url": "https://vnc.tsboi.ai/contact",
       "ok": true,
-      "status": 202
+      "status": 202,
+      "attestation_uid": "0x4b334efba2a94e7ee5797b3cf712215f6fcbbcad68cd8eb5103c7db127b21d1c",
+      "attestation_tx": "0xb02602e025999a4fa40592f8cec56a007e17dcfafe5369839db887091288b2ea"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x11c60089879400d3360c654d5c862436dba5c29ade436f85c56dc02f1f4f2acc",
+      "attestation_tx": "0xe90d4cf373b7f83d4007d0a69628af76b89de8dad9db18473c118885184dcf32"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/llms.txt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x81ce288a772c58d078caac1e41407dc0ac8defdf33c201bd7b34e55b34c81322",
+      "attestation_tx": "0xe63d1034c04803d9bf756a00fb1432c9fe4603d00cf6f11168386eb8937f1a43"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe1739228aa623d81e5d3e2059a2b374acb85f2eacf88fe64b54b92f80cb545b5",
+      "attestation_tx": "0x3fbfbd130afd92bdfa670c23dce4b251b7b763500ebb969686b08a709a3f6eff"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/indexing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9307724c903dac27dab032aba2f79f39f77f97f177a9a78e382ac9d5cfcfd9eb",
+      "attestation_tx": "0x36c4108bc029e016f4096c000d55a7099adb6a3ea080d667def7962f47731bdb"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/api-platform",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x1c08e85a80da8b01ea166681fe068ba8adba7a3f1c0eed5b5d649dbec959e2d3",
+      "attestation_tx": "0x80690e4c4fa27f2366e8069a32326c2d47bbddc4444561fe0b00ff90ede23751"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x3b46fc9883c5957609e8c64c432ff1a63aea13e062525b9b966a00fc8f13b55f",
+      "attestation_tx": "0x44c90aa264b9e5a4843691000fa68011acd4b0b67e8e19a0ff8194daae62631f"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/frsc",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x01d0060dd8d3b0fae2b6a6df4d1c090c62b49ea86b84a148baddf7641f3864a8",
+      "attestation_tx": "0x740a3ea0f8057d134ee85a5d2ebe374d1d66524bf1e6d0f0eae83a7b27e3507c"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/kachollom-daju",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xeee99a2e36dc8c0ea29c1e1cf2585da7c4896b152e30a0e0d97171263c04c352",
+      "attestation_tx": "0x4e4e439c8b78157b7fe874d91eb9f2e4df12c0da2c44a3a8e0cd3aa5d879ae41"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/signature-private-collection",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0f38348e6c6f940e6db9f6e4d68d8fdd468ef0c79445279000c5759048a52edf",
+      "attestation_tx": "0x6781df13e43b06bd80aeddb212ca5b96b013d05eb6546b73b4666c7d44088b8d"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/signature-private-collection-fragrances-that-tell-your-story",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x8fc58f08af05d285743d17d0e29df871e579e8c08734b631f15997f7d803d72c",
+      "attestation_tx": "0x0baa6e0287529147efedcb11a3c294f29efd7b900ba84a9386c5288027515ab9"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/beccas-castle-luxury-skincare-abuja",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xcd9179d1f7cd300da1e96baff81b3500c66e17208f7ea7fbcb3d8d368d5c2ddf",
+      "attestation_tx": "0xcd7fd7f4f4157cfec81c39305b233948a429f76dfd1e64941539273c47eebc89"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/aishat-saliu-strategic-hr-executive-media-leader-and-ceo-of-vivanta-consulting-ltd",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x26c876c940c1bf2a146b924c365f931562cc4464283d42eda09880c590215644",
+      "attestation_tx": "0x7af8598dc121061a0187d8e540aa89d86144c311b00bd49cf054f6a83a533a2e"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/khalis-leather-handcrafted-luxury-leather-goods",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x5e61431f23c178e95bc0f60439cdb6eb84083f6528cf2b967757c84f8568fa4d",
+      "attestation_tx": "0xb479254f3268505137cde06a1b557d8f31bcd9166616698d34b4643780687f42"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x19623c906d93bf9440938598658f9fcdb629a0e233dd71a825e6f69ef07feda7",
+      "attestation_tx": "0x5b9a57ffb24c087bc4668e06648dc1ca7c939aa73e8b40cc0205c40bffafde38"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xeaf41135cc29426cbdbcde6a5b81fa99c1e416b900cfd3f42464a3ae9fd922ca",
+      "attestation_tx": "0x0196cfc072d30c4ede6b52be3d94a32d8c69aaa1052d067217509adbd031a8d0"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/integrations",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbf5da06b574c906ac537765c09f8f32b971d2246348944936cb14335ac4360dc",
+      "attestation_tx": "0xa829850083d3a0f8c6627bc48abb3a7cfccf062a1b92988cf51742bd43eed021"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/osita-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xad9de1a94f68de2d01172a1265a0b3b30e21cd7dc9e268c273ed5e89f72479ce",
+      "attestation_tx": "0x16a71b541d30675becbe826f1a18bc7e2e8b208352d987d377b902200b7543c1"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/visibility-problem",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x1fe5ba2e0c8a122e10dab3388e7669a8c969257ae6866eecb3cc037bf289c6a8",
+      "attestation_tx": "0xd340fc21be89e1c6ef4969703e889d3cc3408ac59c0dbce1a2f7f836bd25e9de"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/techstartup-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x10ca7267a4c6f7a786098686462344969f413b9b48b80f6c3fe10c27efe6d68a",
+      "attestation_tx": "0x348425fde22e1ef2539836db433d8b4b895a90a1c923bd303fce59ccaf4ae3d1"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/pandemic-readiness",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x1e519b3c84cae095d1521ff1707b7e60d4edf889116322e9bb9e3933bcab06ac",
+      "attestation_tx": "0xfc774d977a1111b99f28845a938de5ba1f5fd7455029705d78bda2d34fd72234"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/financeplus",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb1f15a8d466fe0d9d1de1f1ae7d8399808dc5feeff8dbca28a2f0c9a575e97ea",
+      "attestation_tx": "0xed3be3fd8b7235c7853c99a32956c61d56e6725f431c23c6210e5f4a4b67447b"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/edtech-keynote-2025",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa9ae0746484a9ce6ce055d739349fb39e2f662af808ef12986072e17b17440c3",
+      "attestation_tx": "0x862b76ee695f8c90e67b2e9276ad2762df77775f8afc3c95cee851cb916dbbb3"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/sportsnow-podcast-247",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x527fc08d9afba3ab6fbb790366777eac54383c4a23a3eb646021c891c135e8e9",
+      "attestation_tx": "0x224419fad3b354e00faee0118c25957486872829ab7a8157263cd756dc0619a0"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/barr-donald-chidi-amamgbo",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xdff9b24eadbb05e675d7da884efda7e1e9a0ef5a01a243cd4d6e13ab7939ff7d",
+      "attestation_tx": "0x5606f3a49f147bfcfbeba543080d7d8d201afacce4a85863baa9ceb751b4a2b1"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/solarmax-pro",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbfc6226fa8602bfdc9e85f6caea459d17f5432789d9e851542bb0566359c09fd",
+      "attestation_tx": "0x5df90bd85c9606f1da074f3e69d80e9688f9af9920c0fb5ecb71140b89e030db"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/elena-volkov",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xfeee1c79e491ca22771469092b666ef59ecd40d5c27fb698b18f111bce8b93d8",
+      "attestation_tx": "0x3a9c918d903b4b88cfd9de8a9af20ae58eddba08f5df1aecd8d16a4f483fc082"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/discovery-is-half-the-job-sms-email-marketing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x65c4b2179714d9f0481cee38b1ec0d04024b1fbb0b7ed0ac2f4c7f2dab8d61e0",
+      "attestation_tx": "0x389c9f5ee6de8884c50f2db0f01a6a33b3c2d4a9bbe35eae310baa7504d62d98"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/eu-classified-chatgpt-as-search-engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x00cfbd52470290ece2a8a25e86a471c6fa357558c18a941a75e43e51db5a25b5",
+      "attestation_tx": "0x736b1529d52dfcdb0fd842fbd8fa9d80fad9e18986304da37fe9d3a70729107c"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/the-retrieval-wall-why-most-internet-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9d7da73026ac0629276c8d02bf78ace6b9cd3ee7db306ad0cc8a9eab8d447890",
+      "attestation_tx": "0xd90f604644574466271844a29f11e3bade275b2c945b2636d03f29662351abd4"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/three-source-rule-ai-corroboration-citation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x3fbb30fd76294a6572e632a8688f42caf52609fe38a750ad62c80492d970170c",
+      "attestation_tx": "0x4d7b878d6a660fe4b79416e84f6587222cafe4175197fcb36204a2efdc76683e"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/the-trust-gap-why-ai-finds-content-wont-cite",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x34eec6c836647ef9b6a42c7e48e80496a71241f420a3924dfbc37d1dcab7d4ff",
+      "attestation_tx": "0xc696a9d5d010ae70b53a4e4246b17013207a0846cdd323b82802ca3ac9e9688d"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/the-multi-model-problem-ai-ranking-differences",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x4c5db964c1e2a477fc400bf25d9c1a66f29b121e57e8b30c67fedb369b71f9ad",
+      "attestation_tx": "0xea09f01db2e8d11b7a8ffd93d8be7f2d0fde31799f40a2d51954f98b983c0e16"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/the-knowledge-cutoff-why-newest-content-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x39ef79cb63784b2820ec0819ac133872d3f1cd1374b479573e23535ca1117175",
+      "attestation_tx": "0x06c4ef7725fa8c7dc00de4b1f4b6f2960d6cc1dcaa7a8845198e232b05a230dc"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/why-every-company-needs-an-ai-ready-corporate-profile",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x29924495557cf8871fb0da3687dff50b559fdc3c79fb4fa47e97c666f06c2ec8",
+      "attestation_tx": "0xaebe8386a12e50ddf39280844992450c5251f67a87d3f1b6cba3efff09aad8ac"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/why-ai-cites-some-brands-and-ignores-others",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe2d6c94543c046e6ec763615c0612d529855563329a73ba5f3e8d9c9da86c87b",
+      "attestation_tx": "0x15de490b9a1e9182617604308c686b9f92e3df2a4a4733e14d7d17eb0e723d96"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/why-your-professional-profile-is-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x2d02a3e1f02bc80b739c1793bcae3cade27aeb53aa1982772aa3f9cc582e0290",
+      "attestation_tx": "0x82b7139d692bd2edc603eebf937aec3c4757e60d9a96b0f1cc8f171dc0f9cf35"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/why-business-doesnt-appear-perplexity-chatgpt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x67a09ec02061e2e0a44fd9bec28b5ef6964cca34da6907cb5de5cd158a2d4344",
+      "attestation_tx": "0xa7e416b2e971122900fc1add222e8104a77889c23d48195a73bb4dbb079e9778"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/how-ai-search-tools-find-answers",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x726589e438bdadb74d1f05ce6743b0dcfc47ec748c6949e660a8199faf449840",
+      "attestation_tx": "0xee58b8b0280f162d952f0342829732956d63d29f3c8349cdf2955a44952874ed"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/what-is-geo-generative-engine-optimisation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xdc7814d172606b5ae60a107c1f0fd3c83c60765c958d8b838f61a251ec20b459",
+      "attestation_tx": "0xb6dfa8724c906ac1328f953fc3431ceb661afdb2fc199eaa94ff24d46ecee159"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/gov-dauda-lawal-rescue-mission-zamfara",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xa2e8cc9f01b228845322894369ba863519e148f3a6b4bac40f816de03b2a6b5d",
+      "attestation_tx": "0x77fc6c80d27b96cbd15d56d2af44a43e00542ef37af471e815921ccf5458ea3d"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security-education-and-infrastructure",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xecaee453b32b8d81967b46ed55895bcb4266e15cffad1feed534675839a29e3d",
+      "attestation_tx": "0x166a7770638c61dae136e7d5387f9cd87629ab04703b0dae55d7dc95005617bd"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/every-life-on-nigerias-roads-matters-frsc-tsboiai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf0abd97869917634cc8cf56d967c1ae8ddb4f830fc46badec6018e3134e5ceea",
+      "attestation_tx": "0x424cda4389958a5a216007ce462e04ff6dd1040907e68d9bfe7c49fcbb082e19"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/kachollom-shangti-daju-permanent-secretary-federal-ministry-of-health-social-welfare",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x070d93c615bdd3f96496073cdd48566d8c21f40c9e4efbbffb3922f614084465",
+      "attestation_tx": "0xc9183993797a6242ec695da85bb7d68452c5fe8b142deeff4ac60e1d55298777"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/osita-chidoka-public-servant-writer-institution-builder",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xc445079be30ceaf1d8f94583df9714f6d35c061e00ea5731ff42462a7f1801d0",
+      "attestation_tx": "0x0ddc593636d88d23926afc5a60fa1b440e345d6229d7c96fff1af08a98b40d51"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7b2ddf18a0b9eeef974d5d201eaeba8e563fa0af12a61558f755fa632c6daa27",
+      "attestation_tx": "0x23eabfab09f554778f1e362f70512308d19e3f8d189bb7223919ee85d222d29c"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe414826c4aa4ca2884dba58bad32ee11ac41f0168b78a29bc5acc9eab7ded3e3",
+      "attestation_tx": "0x8c79c0083583c1cb6b9629cc582867177b740e2e96a6982c86679f037f01ae41"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe6894ff1895db4c733c46074cd5ea91a401cba936776a87a076fe9e98c2ab092",
+      "attestation_tx": "0x3245bf507ced7c0ed8a57c80fbda479b268bc626b5272592a37d495935f1ae5a"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka-cancer-research-education-support",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x175d24ad4d87153e87843005d031a97e68b278e64a37cff3fa78af0d6869717a",
+      "attestation_tx": "0x391f570f611c4f47a109cd6736fc26dee1ff459a14839e5b0ad1fe500e5994b1"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9778c8522a690ac1a0e8335d51e5fb1d80bffa36c7f267ed21699a6998615eb3",
+      "attestation_tx": "0xd9514afc6cf83b7498e7db2481348d1bf68dfee1ce8b86a2a182193d7bbaf897"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/learn",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbcd93b49b8b7fd2fe3e4aec7c9ede0a10366971e42e6db40af7b52d4e892bac7",
+      "attestation_tx": "0x73a0415071b6d2b361050ac0a884a8f5928367bccb9142f1de92b24f17a77d3d"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/solutions",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x6f490be306325742208c19b6e9c3a1c5aedafceb48c572bb01671dbd04363940",
+      "attestation_tx": "0x9a033863b641b8aec734117006ae1aa7d91fa740274fdcd39f47b3b49c928e13"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/centres",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x28ef72d6801a88e0c6a5cd0f6a6f2c563efc5c7f1eeb05a0a6662f7c2648e33f",
+      "attestation_tx": "0x42c8c3aeb9f78d937d27a7a0e8ce1186645b9f668e1e5dad4a674cd2500c7e74"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/caregivers",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x253f8260f3414571e1a1f9aaecf5ebd9f34437a6cc2890b60f09effa875783e4",
+      "attestation_tx": "0x90fb8552d624fb607dddf7c55708a7c0710b22ababb859915aedbc78ec6b1ab6"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/memorial",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x81d3ab7f44113c447a92f6555f1d639086287b108e68252a55f1f53025fba8af",
+      "attestation_tx": "0x757dc0d27210e892da90187fc777f631a23d79562b90f6b8ef5523aae4f2e148"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/about",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x1ad8c292af3373fe51616db274823b2315b837a1e42b74cc13da0d7a34beb9e9",
+      "attestation_tx": "0x8e740b2f7bd5b06f34329769224712a58e73d8ac773dfadaaad13d57e04ae676"
     },
     {
       "ts": "2026-11-19T05:02:15.260Z",
       "engine": "google",
       "url": "https://vnc.tsboi.ai/contact",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x4032cc70ad388bb6ea95c4b2f3de756fc47b641ba4d6aefb85f94ed2a7172863",
+      "attestation_tx": "0xbaadbb0e02c9732e9216dfe4d8106fac55e806bf14107470ccb0766addd9307e"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe5b2f51c951fe83fcdfa915fa747a472791119d48350af84b83ccb2608ef8e7c",
+      "attestation_tx": "0x43fbe40f7940e28e2ae55c221e4dbc6e9a7fc88e65e2d7ecc213d378bf6ee13c"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/llms.txt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe9731f9c9d2a26e9000872bb0f9363513f23d7dd4fee62fb69b789786ef1794f",
+      "attestation_tx": "0x1c1391be1db5688b9151fcaddd4c14e28f54743d70be29692da76470cae57677"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x23ee5b94664cdd4422946c74697919b787196648d798e3371c6da6f96d000903",
+      "attestation_tx": "0x4d7dad9be17066c6ae837a8f374feeef7b23b30932a495ce2719a317bc30feee"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/indexing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x3ceb9a13c28b5ad2d1c07f82b24c737bfd50ede4957f23739aa8b58939fbb077",
+      "attestation_tx": "0x9740ccd14bc7e4a5899d84aa22fb011855fd97a517a2ced705172b39540609f0"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/api-platform",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb94e35acd0551dc35da8f2d8fabe8eeee6d0c9a418c203a859e3f37e14e2b599",
+      "attestation_tx": "0xaf7ed19c2a77e59ffb1ed22187f4535cbae9c739593f1b48ab1b4c2144273820"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0a3ce8bd9f73ea27fc8ef88214e8fe28b37dfdcf4b181d15caa00c7580ffcefc",
+      "attestation_tx": "0xa498afbb9ca2bb8853f0def001ca660afa4c7f13ef2bf0ac2834d5c3a67b0d8d"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/frsc",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x477f4e66b46d6222056df1338b71fce8cc7349519f6cb8ab901659a7f78a735e",
+      "attestation_tx": "0x6a2fc3c0d2524aee9242523fe54870cd311a350a3615207aac8d091f19eb27d1"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/kachollom-daju",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9b82fb2ec6486f78b3ea1719669ef2a43947515d22a4f20db645a258acc83f67",
+      "attestation_tx": "0xc6314dfb3eb7c363b0245dbffbf8c5bba2e3175333107cb6e8dc1bbc6e70edfb"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/signature-private-collection",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xde063f5953fb81b796c0aefc99cbf8d76e7ae9410b109ace6bb54f8839bd4694",
+      "attestation_tx": "0x5b921853f17f75111bdb68834524ad0f29d6d50deac58c9cedaa7926484255aa"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/signature-private-collection-fragrances-that-tell-your-story",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9f306eec31a3e51c3f836f0bcb4699353a395fe6d8f6e27cab14f394dde5e951",
+      "attestation_tx": "0xf54905f67ba6e6e75af8a73d139e302dee04fb3466f7a3a796f8c4177c8053c4"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/beccas-castle-luxury-skincare-abuja",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xfd5262644a27592b002335c62fa2145cddb78f11d9c589565591eb308504004e",
+      "attestation_tx": "0xd14cae174fa88fe357c45192847fb0f11bd9562e15341c70343c05e919ab0f99"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/aishat-saliu-strategic-hr-executive-media-leader-and-ceo-of-vivanta-consulting-ltd",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7ef69f8d098a68ee08c7da03831c54a9480dfd1dac8b38bc5724f331cf6e9fe2",
+      "attestation_tx": "0x3300a623b09e14d8402b4618a27d3c4d1dfc56cfe1e7c5e54ad2f2a9d781c122"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/khalis-leather-handcrafted-luxury-leather-goods",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x2cb553cae6b4f665f7205831554ba36e9be66270cd3de4d2fc710d5633225145",
+      "attestation_tx": "0x89c726528348f0aa78e5f4fe125e8b6088f646c3cc0175f0fd451bda4d77c69e"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe4742cf58db5937dfca64b5dd38a776b131cecb0cc5536f158345e9cd228cb8d",
+      "attestation_tx": "0xc93cbcb86886d13243cf6043ee78b4247ab30bf826d2c79b95236ae0d66e5fd3"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/ellas-tasty-thrills",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbb99014c2e2775cc191b34e2712c2c4507128cc53b2dc1fb7210441721c56ea6",
+      "attestation_tx": "0xe8192e970d59245a835e0cb6ab5e1d8202fa917da7d94bd9cd0d35c8c2956238"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/integrations",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf59e8dbdbb1b05a0ca6ca6d1f8c7e9065e1b1aa9472365131b8998d646b4585f",
+      "attestation_tx": "0xc5e9e9f507d70f47eb8e5165dbbe0100ba42525df1181a5f630520e2fe0f2c23"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/osita-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xdae4b3879a0468342b660a7435afd3a7d9cec952402f0e6981a774db1918f9b4",
+      "attestation_tx": "0x1ead6767d600256dbb33e3496ddecb270fd0f8fb8d0d749bb43ac452cffbcadf"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/visibility-problem",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf577a13087e4f0dbe89ea0e5f1c5e4fb767bc2c925de86bfcb97ed83eb426207",
+      "attestation_tx": "0x380d39626a062ababf4e94e5beca8b2e34dd4b2d5f6365067d52d4c1cd842fda"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/techstartup-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xfa1402c80f84650c8b792286eab3c0ea22cd4f8b9951fd2368fe1d9617f71045",
+      "attestation_tx": "0xecbc28e6e8c6dfd60d40ed064b603712a54e07562dd40913f569804d577f9d72"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/pandemic-readiness",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x4ecd460764cee38c2fed8bd9709655af81ba4495589458acbba7166379deefdb",
+      "attestation_tx": "0xfc9fbf877a5aa30d2c9da7784ca3553a8eb05c177dd6c7930fd8bcbb01d74501"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/financeplus",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x22d4f3d85ce78d8cecc91be05962a85af0d43185bfbfcdaf0b43b2d28dd3e9b9",
+      "attestation_tx": "0x15a7e32bf2be86baa96bcecedfd2530daf4888779242346d561c0bf583b647a9"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/edtech-keynote-2025",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x25c2762d51778fd11e26e1f0e0c5165f9ed0e02c235376c45880d6fc0d413b61",
+      "attestation_tx": "0xfd3a51dfccd6bcc0ede5a1958cda114a4e5b3eea039f1b3955da15b1c745330d"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/sportsnow-podcast-247",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x9b476f066c0de85eee944d98cadb7be765f1920d086232a512630207e2341dda",
+      "attestation_tx": "0x9210a72bc51dbce16e75a164d56d58f149d0345d96db78a94e844457b50ca109"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/barr-donald-chidi-amamgbo",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xcc3f36caa5b3748fe4acfedb9d66df3760c11a20a6148b2076e3f2b5339e9be7",
+      "attestation_tx": "0x9ebe6e694011ee33d9545725985ff112a750e7f70ab11c6b22b6554de4cc565a"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/solarmax-pro",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb0435d1890583d64eb92494927f72bca707903681dcb432e31c5dd794a31ab36",
+      "attestation_tx": "0x83973078c5c140a488f7d61e13af37d67cd51383341a40ed9d73842336833236"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/elena-volkov",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xbaf8a0447ba1e450580a3e97ec3a23d9dd9e20140ff871386ba0450478fbf3b9",
+      "attestation_tx": "0x7a64202bee9a2a1551d6422438bf35229907e8fe1f20e6784b63ee2ec518c8b1"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/discovery-is-half-the-job-sms-email-marketing",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe39ab93582041c604c8a4f094c278fded36d2f62f82ec980aa575daa24e8b44b",
+      "attestation_tx": "0x78ee5cc732513c220cd89377966fd2782d6ee7552abe835df9cd29976006afeb"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/eu-classified-chatgpt-as-search-engine",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x796500dd8291da66cbbbf4e2aafa5cb4ee4ad0a890e38902fb1f681c69a4ab46",
+      "attestation_tx": "0xa337965c7a80f0bce0d41e375346cf72d2aee2953dbbd3c12d5b75a5fb6b2bb0"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/the-retrieval-wall-why-most-internet-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x428745a8109ee96502d6ff8b1116eb1ec9bb45a9002d5d608534aaf3c4c3f22f",
+      "attestation_tx": "0x2b3f519d14e404fbf8d4cae812937be8ab3621f27d2ecc920d197d2454ddb4da"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/three-source-rule-ai-corroboration-citation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xcc7e49f88c9d5eb361d67fd5ec0b7223946d90b426fcbea43e7cb945a304a19d",
+      "attestation_tx": "0x40042797f2f69fb2910197234bce114f62cc1f436d1a0065e35eebcad4cddf33"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/the-trust-gap-why-ai-finds-content-wont-cite",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x00e7ff49e820ffbf5598b0fbf17eaffd6c964630217b8aae703788f0a3a3b68c",
+      "attestation_tx": "0xd98b7a6cb20ae695eaa4e4067dbf996681de2fc98058c9eff86225ca1c20373f"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/the-multi-model-problem-ai-ranking-differences",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x64616a299801960bf907612a3d8fd52ca682059b6f689ceb8c40cc064f53f26d",
+      "attestation_tx": "0xcab8c732c9ff80d04f9e20d7dc84eaf119fe391170e552c2385c08100b25950c"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/the-knowledge-cutoff-why-newest-content-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x6edaf273f572eb80c75241af8ced2cc82f7cde63659a340bbb7b32df37178260",
+      "attestation_tx": "0x683b9e686aaca55e7ab70c5cddf127ce904bf3fa38c29d9bee239a5d33806439"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/why-every-company-needs-an-ai-ready-corporate-profile",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb39182fd1d29f7362dedb9ff1636c799949a8b4430a8945be25c62109018315c",
+      "attestation_tx": "0x3c82c94fa8acf4ff32a13985100a5af72346a2c8377895fed5b0f7fd9578ea29"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/why-ai-cites-some-brands-and-ignores-others",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xdd3784c6ac4903979664762bdb3962d455be9e5c0e8f86ce3ee493f9eabd82bf",
+      "attestation_tx": "0x31a9654e3e382084332af8c954d4c8db6ec12d077c1fdbbea51a58a20a865a70"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/why-your-professional-profile-is-invisible-to-ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x23d26661b9d4e39347157e0a729a5f443248b6bc9a8178233714afac70b433b2",
+      "attestation_tx": "0xa26998c911fbca141ff8d47beb33fe8954ec4cdb6601d9a7669f3b27d63cec20"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/why-business-doesnt-appear-perplexity-chatgpt",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe555695dc3b39dd698914331e5b3c20f60da42c6cd3363fb4ee3edcbb524b0c2",
+      "attestation_tx": "0x05b457e446baa383fe7e20ecd02a7effdc9eedad0155bd3fdf707ece42463dc8"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/how-ai-search-tools-find-answers",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7e88b228826deec3169592f4c0facb337ff541fd9a1ecfae239bc83f6c0950da",
+      "attestation_tx": "0xb868c675402c9405da06881bef9d264b812c1b5364891df5116f42aeaf7dee17"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/what-is-geo-generative-engine-optimisation",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x81663e096fdc6bb11eba55aa8bcef6cfd067244b5d14c94cb5552cd83003e4a5",
+      "attestation_tx": "0x789765bb4f6d1c83363e90e66efa27ff1ff2322cd7d0c44916fd43d735cb99b2"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/gov-dauda-lawal-rescue-mission-zamfara",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xc579e3d9980e98fb9c64a2bdd75d4da56e784b8758766312037c2fc5fc737fde",
+      "attestation_tx": "0xeb79e224eec5eb784d940c97ebf4216e2703d70a7c81403d2bb4f22f114c8eb1"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security-education-and-infrastructure",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xaef108ac24846f0fbb4f080069c17ed69471301479ef2520699c7c0b3533f7a1",
+      "attestation_tx": "0xae0851184a041daba87f0a6c5d759d23c550e6124a0310e2686a185dcd5d1830"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/every-life-on-nigerias-roads-matters-frsc-tsboiai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xc3f7ff7691011b8349f94cc8b5f0581669a6c7fbdfa3cef20b65e8f96eb85633",
+      "attestation_tx": "0x502e94e2d4d5ce74630a38e9ef17331bbdbf626221316f10cb436687b6fa36a2"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/kachollom-shangti-daju-permanent-secretary-federal-ministry-of-health-social-welfare",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x0be439f68363951a1b078a56238a6d00b14e21c2369a594048ddd6ffc2ebc7fc",
+      "attestation_tx": "0x736bf07a1b91d7e8128c593c271d6ad67d3f9864749e9e61e0d44c88b61b1c0c"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/osita-chidoka-public-servant-writer-institution-builder",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x4296ad631e636bcb77d5082ac2d4db80de2b7778d3186acc371a86aa0224e07b",
+      "attestation_tx": "0x85251062f9be45936956e1120bc2e2f81ba13f877c37a2ba8a06713700368913"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x223c7e1ae5cbffd113c972044fa14b4e7d0c35c11673d38337b5e086e958bd2d",
+      "attestation_tx": "0x95fa53bd30887197f7e42e14cdfb71e2a9b64d64e8db2d7346090f88e88c3a86"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x1e7f669e95bca01ac32473593b4d4417bd3a2fca9a3a1248b1343cd1d1101323",
+      "attestation_tx": "0x1a533d34234df1398a907f465b6d898179649ca3658a03d16d0fe4bfc509787d"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf2707cc07fc83cf5180f84cdf733423c25e424e37037ab342d8f2a26cca1fd29",
+      "attestation_tx": "0x84fb103763cb6f28f1eb8ac1a991bb9bf1a1c6a5e74a605965f348cb37ade6b9"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://tsboi.ai/hub/victoria-nneka-chidoka-cancer-research-education-support",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe7e38579b9d49f7dee85a949a87acbd74bc2b33be66a81d1c3bd065cafed27bd",
+      "attestation_tx": "0xaa5f908597e3de95e2aef5244de1340bf040ab80015226632bfea29965e9caea"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x54379d52c9934bf19050c8b347a9c0e12a9b766d04a28b46c55c743cecdd6dcb",
+      "attestation_tx": "0x40ea1cae9e6dbe0431b9a17aa0efe00f9c952ca737d66b069b4363fc2783f37b"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/learn",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x94ecaa1212d36c7670a69980f7f226bea950fc80255d6b97c27b37f1110c124a",
+      "attestation_tx": "0x6d3385b18539ed275cb1a89b9b359e74783d82a0c2e6ab4980d590d96f97b0ec"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/solutions",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xe37ac6c3277c868836d81ecd84c475a5313a3410165ad0a97e62f5b16710d116",
+      "attestation_tx": "0x8faf7356d48fd4893e90ed09e57f5ecb04c033ee40335c8ba71596edb7b8797f"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/centres",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xb7e51cb47503e397d5f8f7f432b95f6ca9f4b09ce15f17452ea8509c51406532",
+      "attestation_tx": "0xb208a06e2f0070755a2c6a00141bb965eb4f79a109e45dd1629daebc39548f11"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/caregivers",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x17d3a3e7d694cf8940b366ad198cbbb1b8d110a2cbb357aa08f7c1c641491f81",
+      "attestation_tx": "0x168000e5b9c55ac181ce93b9b469e7059adcaa86a6efc669c056e5a587bef40a"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/memorial",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x7c4a0fd8e4e81e9038c9b7db589dc93371b01db38eaf57374ce3f2039d5f53ed",
+      "attestation_tx": "0xa009bc209ee9bba523179282ba5ecb9d89338c4f6ade878ce17ba5ae65f6d7f0"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/about",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0x083ef35760a767b1df7cab112d871d1c2bf68d5ff28ee9c5c60460d412596309",
+      "attestation_tx": "0x989215ed9a2ad57a1c2eeb5ddbf217eaa612885b3c4d425557fce4b5e57aa343"
     },
     {
       "ts": "2026-11-19T05:31:26.554Z",
       "engine": "exa",
       "url": "https://vnc.tsboi.ai/contact",
       "ok": true,
-      "status": 200
+      "status": 200,
+      "attestation_uid": "0xf637ee2ec269020dd88062f3caf1d0fab62be5fb03d336936dd547b645a0a987",
+      "attestation_tx": "0xa0797cc8f7d446927bb746e3d084ec13c3230aaf38caa2a644bcb27559ddc322"
     }
   ],
-  "generated_at": "2026-11-19T09:20:20.680Z",
-  "sha256": "01b8e3c4fa2be4d24a1b1fbd7f6017676dc508cee744ee2c8b256c4594e5df75"
+  "attested": 169,
+  "generated_at": "2026-11-19T12:50:39.906Z",
+  "sha256": "05db58077bcac4f5f7f02eed8d6ed88b941f76fa92415c1880f633bee5ba92b0"
 }
