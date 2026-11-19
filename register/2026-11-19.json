@@ -1,7 +1,6 @@
 {
   "register": "tsboi.ai visibility submissions",
   "day": "2026-11-19",
-  "generated_at": "2026-11-19T09:20:08.073Z",
   "engines": {
     "indexnow": {
       "submitted": 57,
@@ -1203,5 +1202,6 @@
       "status": 200
     }
   ],
-  "sha256": "77f64ae76c77725a0038684f710a7374863a3fe1964996eebab9ee1cab447d14"
+  "generated_at": "2026-11-19T09:20:17.147Z",
+  "sha256": "01b8e3c4fa2be4d24a1b1fbd7f6017676dc508cee744ee2c8b256c4594e5df75"
 }
