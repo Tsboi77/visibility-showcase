@@ -4,9 +4,9 @@ Every URL tsboi.ai submits on a client's behalf, recorded per day. Each day is o
 
 This is the readable register. The tamper-proof version writes each submission as an EAS attestation on Base, timestamped by the chain rather than by us.
 
-| Day | Submissions | Accepted | File | SHA-256 |
+| Day | Submissions | Accepted | Files | SHA-256 |
 |---|---|---|---|---|
-| 2026-11-19 | 169 | 169 | [2026-11-19.md](./2026-11-19.md) · [2026-11-19.json](./2026-11-19.json) | `dd1a46eaa2b67a41667ac2b91b6a6a1dde4e88aa9643aa4f11e5f33b5cc64c73` |
+| 2026-11-19 | 169 | 169 | [2026-11-19.md](./2026-11-19.md) · [2026-11-19.json](./2026-11-19.json) | `77f64ae76c77725a…` |
 
 ## What is in each entry
 
