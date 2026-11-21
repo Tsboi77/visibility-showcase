@@ -6,6 +6,7 @@ This is the readable register. The tamper-proof version writes each submission a
 
 | Day | Submissions | Accepted | Files | SHA-256 |
 |---|---|---|---|---|
+| 2026-11-21 | 113 | 113 | [2026-11-21.md](./2026-11-21.md) · [2026-11-21.json](./2026-11-21.json) | `2bf5eefe259d1329…` |
 | 2026-11-20 | 113 | 113 | [2026-11-20.md](./2026-11-20.md) · [2026-11-20.json](./2026-11-20.json) | `9e16653d9a30a516…` |
 | 2026-11-19 | 169 | 169 | [2026-11-19.md](./2026-11-19.md) · [2026-11-19.json](./2026-11-19.json) | `05db58077bcac4f5…` |
 
