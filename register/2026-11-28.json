@@ -1,0 +1,696 @@
+{
+  "register": "tsboi.ai visibility submissions",
+  "day": "2026-11-28",
+  "engines": {
+    "indexnow": {
+      "submitted": 38,
+      "accepted": 30
+    },
+    "google": {
+      "submitted": 37,
+      "accepted": 37
+    }
+  },
+  "total": 75,
+  "accepted": 67,
+  "entries": [
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/llms.txt",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/blog",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/indexing",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/api-platform",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/engine",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/frsc",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/kachollom-daju",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/signature-private-collection-fragrances-that-tell-your-story",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/beccas-castle-luxury-skincare-abuja",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0x56a9b5f4a35ddaad97a5628947c016812b65f9c2d0f25679554afe90c55712ec",
+      "attestation_tx": "0xffc582948f55ef76a322053cd4f54ce4a26e4e3a9180ee64326cb3b31aa2a097"
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/aishat-saliu-strategic-hr-executive-media-leader-and-ceo-of-vivanta-consulting-ltd",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0x320ea3399cbd10be47cb4f01b50bcb20f21166a6a3c63cb83abbf47b8d4870ad",
+      "attestation_tx": "0x0849b7330b5912821182b4f6f062551b1eae77d958a2d3a5566b60be9e8b84ba"
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/ellas-tasty-thrills",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/ellas-tasty-thrills",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/integrations",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/osita-chidoka",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/visibility-problem",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/techstartup-ai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/pandemic-readiness",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/financeplus",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/edtech-keynote-2025",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/sportsnow-podcast-247",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/barr-donald-chidi-amamgbo",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0x7dafd9710976a6d13d6d807c931d5618d9f4324749b8b169725c76213f388cbf",
+      "attestation_tx": "0xddbeb6b710e53c95a85914375c8fb20b84745699627c005ace5e3dc347ba8c44"
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security-education-and-infrastructure",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/every-life-on-nigerias-roads-matters-frsc-tsboiai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xcecb9733aed9156b595eecfae1c427291b8656937408053af93cff21fcd03ca7",
+      "attestation_tx": "0x739ee0be4f66898bf2b4ec8fa25ea49faa48cf10f51dbbbef7cdb91b157c8bd5"
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/kachollom-shangti-daju-permanent-secretary-federal-ministry-of-health-social-welfare",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xbef903a6366ded14008c9815364aaafea67933581a86f3f7048460acaa3bbda5",
+      "attestation_tx": "0x633fcd6eb38d3d99a6e0ba8e2f8d399ad5c7280d4e71a437641ff96941f7e90b"
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/osita-chidoka-public-servant-writer-institution-builder",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://tsboi.ai/hub/victoria-nneka-chidoka-cancer-research-education-support",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/learn",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/solutions",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/centres",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/caregivers",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/memorial",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/about",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:02:41.477Z",
+      "engine": "indexnow",
+      "url": "https://vnc.tsboi.ai/contact",
+      "ok": false,
+      "status": "skipped_key_invalid",
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/llms.txt",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/indexing",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/api-platform",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/engine",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/frsc",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/kachollom-daju",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/signature-private-collection-fragrances-that-tell-your-story",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/beccas-castle-luxury-skincare-abuja",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xd7f5827b2fb9eff88d8b955421dde28993ab9c0903c97f810384cc07c8e690f4",
+      "attestation_tx": "0xa78730e8bff0b749b64c662e922c1962475558925431445e70e781aecdc7e61a"
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/aishat-saliu-strategic-hr-executive-media-leader-and-ceo-of-vivanta-consulting-ltd",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0x84e36577e706aabedef22722e9d4b91129378c9d2d91fe223dc230c227923556",
+      "attestation_tx": "0x87a32dd487bbdac7f605440552e84a0b72206f099582fb9942cc82bb86f43001"
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/ellas-tasty-thrills",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/ellas-tasty-thrills",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/integrations",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/osita-chidoka",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/visibility-problem",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/techstartup-ai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/pandemic-readiness",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/financeplus",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/edtech-keynote-2025",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/sportsnow-podcast-247",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/barr-donald-chidi-amamgbo",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xe57a83358f40c121f673ff6700922a591a2bb24a6a9b3bd1ceccc482c4d753b7",
+      "attestation_tx": "0x1219234e327517f819237229ff79fc1fbcb35c74eefd996947f08020fc068678"
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/governor-dauda-lawals-rescue-mission-transforming-zamfara-state-through-security-education-and-infrastructure",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/every-life-on-nigerias-roads-matters-frsc-tsboiai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xfe700f77af48dc80906cef7ea9d71c1ccf13a49d74e596c5d2029c10c4f51143",
+      "attestation_tx": "0x783dd7d2acaabe46f1cad728c09c9532de95070837c6895337ce13488ed35d09"
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/kachollom-shangti-daju-permanent-secretary-federal-ministry-of-health-social-welfare",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": "0xb5a3dac9d07c56b125b3fc2ebae473a37f164f976795108e8dd5c3c9244c952f",
+      "attestation_tx": "0x13c3f72a56c57988219721301816dc646ac5586176fa4edc7c19c2052c6bf714"
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/osita-chidoka-public-servant-writer-institution-builder",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/the-visibility-problem-nobody-was-solving-for-african-businesses",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/discover-zamfara-culture-tourism-businesses-community-stories",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://tsboi.ai/hub/victoria-nneka-chidoka-cancer-research-education-support",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/learn",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/solutions",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/centres",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/caregivers",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/memorial",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/about",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    },
+    {
+      "ts": "2026-11-28T05:03:18.702Z",
+      "engine": "google",
+      "url": "https://vnc.tsboi.ai/contact",
+      "ok": true,
+      "status": 200,
+      "attestation_uid": null,
+      "attestation_tx": null
+    }
+  ],
+  "attested": 10,
+  "generated_at": "2026-11-28T05:19:42.196Z",
+  "sha256": "944dc8b2b05bc0ed304c123d24a5cbc5db845930612f295c5d6b20975e2b96c0"
+}
